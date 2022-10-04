@@ -1,5 +1,5 @@
 ### Hi there 👋 
-
+Welcome to my Github profile! Here, you will find various projects and assignments I've completed throughout my boot camp course. Feel free to browse around.
 <!--
 **Jalen-Allison/Jalen-Allison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
